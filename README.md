@@ -1,12 +1,5 @@
  # Hey! Nice to see you.
 
-- 👋 Hi, I’m @Shivan118
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="center">Hi, I'm Shivan Kumar (Associate Data Scientist)</h2>
 
-<!---
-Shivan118/Shivan118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Associate Data+Scientist%20@%20iNeuron;'/>
